@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "6908523881c662e56d8bace7"
+  },
+  "lead_type": "new customer",
+  "Company Name": "Alias",
+  "Contact Person Name": "ABC",
+  "Email Address": "ABC@gmail.com",
+  "Mobile Number": "1234567890",
+  "Interested Product": "E-commerce Platform",
+  "Lead Source": "Manual",
+  "Remarks": "Updated via filtered bulk operation",
+  "Assigned To": "Diana Miller",
+  "Status": "Contacted"
+},
+{
+  "_id": {
+    "$oid": "6908535081c662e56d8bace8"
+  },
+  "lead_type": "Existing customer",
+  "Select Customer": [
+    "Innovate Inc.",
+    "Quantumleap AI",
+    "Synergy Solutions"
+  ],
+  "Company Name": "Alias",
+  "Contact Person Name": "ABC",
+  "Email Address": "ABC@gmail.com",
+  "Mobile Number": "1234567890",
+  "Interested Product": "E-commerce Platform",
+  "Lead Source": "Manual",
+  "Remarks": "I want this kind of project like a portfolio.",
+  "Assigned To": "Diana Miller",
+  "Status": "New"
+},
+{
+  "_id": {
+    "$oid": "6908566981c662e56d8bace9"
+  },
+  "Company Name": "Data Driven",
+  "Contact Person Name": "Alex",
+  "Email Address": "alex@gmail.com",
+  "Mobile Number": "1234567890",
+  "Product": "E-commerce Platform",
+  "Assigned To": "Diana Miller",
+  "Status": "Done"
+},
+{
+  "_id": {
+    "$oid": "690856df81c662e56d8bacea"
+  },
+  "Company Name": "Rocket Retail",
+  "Contact Person Name": "Adhi",
+  "Email Address": "adhi@gmail.com",
+  "Mobile Number": "6778284894",
+  "Product": "CRM System Integration",
+  "Assigned To": "Diana Miller",
+  "Status": "Done"
+},
+{
+  "_id": {
+    "$oid": "6908576381c662e56d8baceb"
+  },
+  "Company Name": "Health First Apps",
+  "Contact Person Name": "Abhi",
+  "Email Address": "abhi@gmail.com",
+  "Mobile Number": "7384737487",
+  "Product": "Mobile Banking App",
+  "Assigned To": "Diana Miller",
+  "Status": "Fail"
+},
+{
+  "_id": {
+    "$oid": "690857b581c662e56d8bacec"
+  },
+  "Company Name": "Global Logistics",
+  "Contact Person Name": "Ebi",
+  "Email Address": "ebi@gmail.com",
+  "Mobile Number": "2378248734",
+  "Product": "New Marketing Website",
+  "Assigned To": "Diana Miller",
+  "Status": "New"
+},
+{
+  "_id": {
+    "$oid": "690857fb81c662e56d8baced"
+  },
+  "Company Name": "Creative Corner",
+  "Contact Person Name": "David",
+  "Email Address": "david@gmail.com",
+  "Mobile Number": "6757845894",
+  "Product": "CRM System Integration",
+  "Assigned To": "Diana Miller",
+  "Status": "Done"
+},
+{
+  "_id": {
+    "$oid": "69085fa181c662e56d8bacee"
+  },
+  "lead_type": "Existing customer",
+  "Select Customer": [
+    "Innovate Inc.",
+    "Quantumleap AI",
+    "Synergy Solutions"
+  ],
+  "Company Name": "Alias",
+  "Contact Person Name": "ABC",
+  "Email Address": "ABC@gmail.com",
+  "Mobile Number": "1234567890",
+  "Interested Product": [
+    "E-commerce Platform",
+    "CRM System Integration",
+    "New Marketing Website",
+    "Mobile Banking Apps",
+    "Platform Maintenance"
+  ],
+  "Lead Source": [
+    "Manual",
+    "Google Sheets",
+    "Facebook",
+    "Instagram"
+  ],
+  "Remarks": "I want this kind of project like a portfolio.",
+  "Assigned To": [
+    "Diana Miller",
+    "Fiona Clark"
+  ],
+  "Status": [
+    "New",
+    "Done",
+    "Fail",
+    "Contacted",
+    "Interested",
+    "Proposal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6908602881c662e56d8bacef"
+  },
+  "lead_type": "New customer",
+  "Company Name": "Global",
+  "Contact Person Name": "Akshay",
+  "Email Address": "akshay@gmail.com",
+  "Mobile Number": "1234567890",
+  "Interested Product": [
+    "E-commerce Platform",
+    "CRM System Integration",
+    "New Marketing Website",
+    "Mobile Banking Apps",
+    "Platform Maintenance"
+  ],
+  "Lead Source": [
+    "Manual",
+    "Google Sheets",
+    "Facebook",
+    "Instagram"
+  ],
+  "Remarks": "I want this kind of project like a Platform.",
+  "Assigned To": [
+    "Diana Miller",
+    "Fiona Clark"
+  ],
+  "Status": [
+    "New",
+    "Done",
+    "Fail",
+    "Contacted",
+    "Interested",
+    "Proposal"
+  ]
+}]

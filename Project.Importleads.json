@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "69086c2c5c173da61f8f1056"
+  },
+  "lead_type": "new customer",
+  "Company Name": "Alias",
+  "Contact Person Name": "ABC",
+  "Email Address": "ABC@gmail.com",
+  "Mobile Number": "1234567890",
+  "Interested Product": "E-commerce Platform",
+  "Lead Source": "Manual",
+  "Remarks": "Updated via filtered bulk operation",
+  "Assigned To": "Diana Miller",
+  "Status": "Contacted"
+},
+{
+  "_id": {
+    "$oid": "69086c2c5c173da61f8f1057"
+  },
+  "Company Name": "Health First Apps",
+  "Contact Person Name": "Abhi",
+  "Email Address": "abhi@gmail.com",
+  "Mobile Number": "7384737487",
+  "Product": "Mobile Banking App",
+  "Assigned To": "Diana Miller",
+  "Status": "Fail"
+},
+{
+  "_id": {
+    "$oid": "69086ff85c173da61f8f105a"
+  },
+  "Company Name": "Future Gadget",
+  "Contact Person": "Surya",
+  "Source": "Google sheet",
+  "Status": "Unassigned",
+  "Contact": {
+    "Email": "surya@gmail.com",
+    "Phone": "2243567654"
+  },
+  "Imported on": "2024-10-03"
+},
+{
+  "_id": {
+    "$oid": "6908706c5c173da61f8f105b"
+  },
+  "Company Name": "SocialConnect",
+  "Contact Person": "Evans",
+  "Source": "Facebook",
+  "Status": "Unassigned",
+  "Contact": {
+    "Email": "evanas@gmail.com",
+    "Phone": "4577857785"
+  },
+  "Imported on": "2024-11-20"
+},
+{
+  "_id": {
+    "$oid": "690870b05c173da61f8f105c"
+  },
+  "Company Name": "Future Connect",
+  "Contact Person": "Rintaro",
+  "Source": "Instagram",
+  "Status": "Unassigned",
+  "Contact": {
+    "Email": "rintaro@gmail.com",
+    "Phone": "2345788742"
+  },
+  "Imported on": "2024-12-15"
+}]
